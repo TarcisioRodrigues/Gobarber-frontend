@@ -6,10 +6,10 @@ Trata-se de uma aplicação de agendamento de horários para um barbearia.
 
 A versão web exibe ao prestador de serviço os horários de sua agenda.
 
-A versão mobile (https://github.com/leonardodelira/GoBarber-mobile) permite o usuário escolher o dia, horário e prestador para executar o serviço.
 
-A api foi desenvolvida com NodeJs + Express, mais detalhes em:
-https://github.com/leonardodelira/GoBarber-backend
+
+A api foi desenvolvida com NodeJs + Express, 
+
 
 ### Principais conceitos aplicados:
 - React
@@ -21,5 +21,3 @@ https://github.com/leonardodelira/GoBarber-backend
 - Redux
 - Sagas
 - Requisições http
-
-![GoBarber](https://github.com/leonardodelira/GoBarber-frontend/blob/master/gobarber.png)
